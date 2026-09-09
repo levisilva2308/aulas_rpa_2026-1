@@ -11,3 +11,4 @@ print("Nome do robô:", BOT_NAME, "| Tipo:", type(BOT_NAME))
 print("Máximo de tentativas:", MAX_RETRIES, "| Tipo:", type(MAX_RETRIES))
 print("Tempo limite de execução:", EXECUTION_TIMEOUT, "segundos | Tipo:", type(EXECUTION_TIMEOUT))
 print("Ambiente de produção:", IS_PRODUCTION, "| Tipo:", type(IS_PRODUCTION))
+
